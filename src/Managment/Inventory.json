@@ -1,0 +1,40 @@
+{ 
+
+    "Server": {
+    "ServerID": "855426946384265286",
+    "ServerTag": "ꄶ", 
+    "UnServerTag": "・"
+    },
+        
+    "Staff": {
+    
+    "register_staff": "855426946723479578",
+    "all_commands": "855426946723479578"
+    },
+    
+    "Roles": {
+    "man_role": "855426946555707392",
+    "woman_role": "855426946555707393",
+    "unregister_role": "855426946555707396",
+    "tag_role": "",
+    "suspect_role": "855426946632253476"
+    },
+    
+    "Channels": {
+    "welcome_channel": "855426947252224031",   
+    "server_rules_channel": "855426947520397372",
+    "register_channel": "855426947252224031",
+    "oto-kayıt": "",
+    "tag_channel": ""
+    },
+    
+    "Colors": {
+    "blue": "#58a3ee",
+    "red": "#ee5858",
+    "pink": "#e03db9",
+    "magenta": "#882cce",
+    "cver": "#22af57",
+    "cdeny": "#860606",
+    "anlik": "#5bccc6",
+    "mavis": "#56dbaa"
+    }}
